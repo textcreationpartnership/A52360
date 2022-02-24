@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's Most Sacred Majesty upon the happy birth of the Prince of Scotland and Wales, June the 10th, 1688 / a poem by William Niven ...</title>
+            <author>Niven, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52360</idno>
+            <idno type="STC">Wing N1172A</idno>
+            <idno type="STC">ESTC R33630</idno>
+            <idno type="EEBO-CITATION">13540442</idno>
+            <idno type="OCLC">ocm 13540442</idno>
+            <idno type="VID">100075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1553:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's Most Sacred Majesty upon the happy birth of the Prince of Scotland and Wales, June the 10th, 1688 / a poem by William Niven ...</title>
+                  <author>Niven, William.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Mary Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXVIII [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100075:1"/>
+            <head>TO THE KING'S MOST Sacred Majeſty, UPON THE HAPPY BIRTH Of the PRINCE of SCOTLAND and
+WALES.
+<date>
+                  <hi>June</hi> the 10th. 1688.</date>
+            </head>
+            <head type="sub">A POEM, by <hi>William Niven,</hi> late Maſter of the Muſick School of
+<hi>Inverneſs,</hi> in <hi>Scotland,</hi> and now Practitioner of the Harpſicon, Flute, and
+Flagelet, at <hi>Deans-Court</hi> in <hi>Old-Bayly-ſtreet,</hi> in <hi>London.</hi>
+            </head>
+            <l>GREAT SIR, the Heav'ns did wiſh'd for Tydings bring</l>
+            <l>On <hi>Chriſt's own day;</hi> for Joy all Loyals Sing,</l>
+            <l>And at Your <hi>Sacred Feet</hi> their preſents fling:</l>
+            <l>Pardon me then by <hi>Love,</hi> to ſhuffle in</l>
+            <l>The <hi>Widdows Mite;</hi> and my <hi>Muſe</hi> Dream begin.</l>
+            <l>Me Thought the ROSE and THISTLE ſeem'd to Die,</l>
+            <l>And mournful Sounds did from the HARP ſtill flye;</l>
+            <l>In a <hi>Harſh Tone</hi> ſome did the <hi>Orange</hi> Cry,</l>
+            <l>Others ſpoke <hi>Daniſh</hi> moſt imperfectly:</l>
+            <l>And ſome did blow the OLIVERIAN Note</l>
+            <l>A <hi>Commonwealth.</hi> May the Pox be their Lot.</l>
+            <l>
+               <hi>May</hi> dropt her <hi>Tears,</hi> becauſe ſhe did not bring</l>
+            <l>The <hi>Glorious Flower,</hi> that now doth Crown the <hi>Spring;</hi>
+            </l>
+            <l>Me thought the <hi>Monſieurs</hi> Friskingly did Dance,</l>
+            <l>And <hi>Swore,</hi> Time would <hi>French King</hi> make <hi>King</hi> of <hi>France.</hi>
+            </l>
+            <l>The <hi>Hoggan Moggan</hi> Butter'd ſtill their <hi>Throats,</hi>
+            </l>
+            <l>To Teach all the <hi>Plantations</hi> their <hi>Dutch Notes:</hi>
+            </l>
+            <pb n="2" facs="tcp:100075:2" rendition="simple:additions"/>
+            <l>Whilſt <hi>Loyal-Hearts</hi> Kneeling at <hi>Heavens Shrine,</hi>
+            </l>
+            <l>Did <hi>Invocate,</hi> to ſend Thee <hi>Plant Divine:</hi>
+            </l>
+            <l>Some <hi>Sordid Sotts,</hi> did like to <hi>Thomas</hi> Prate</l>
+            <l>In Unbelief, and ſpoke they knew not what.</l>
+            <l>Moſt did forget that the Great <hi>Power Divine,</hi>
+            </l>
+            <l>To <hi>Abraham</hi> made the <hi>Promis'd Seed</hi> to Shine.</l>
+            <l>Some Fooliſh <hi>Harpers</hi> Tun'd their <hi>Harp</hi> ſo high,</l>
+            <l>They ſeem'd to Play for <hi>Crown Antiquity:</hi>
+            </l>
+            <l>
+               <hi>Scotland</hi> Cry'd <hi>Credo,</hi> took the t'other Bowl,</l>
+            <l>And <hi>Drank</hi> to th' <hi>Royal Hance</hi> with all Their <hi>Soul:</hi>
+            </l>
+            <l>And ſtill did ſay, <hi>England</hi> with Patience Wait,</l>
+            <l>The <hi>King of Kings</hi> ſhall Happy make our <hi>Fate.</hi>
+            </l>
+            <l>Your ROSE yet ſmells, You have a MARY-GOLD</l>
+            <l>Shall <hi>Cure Confuſion,</hi> and <hi>Great Joys</hi> unfold.</l>
+            <l>
+               <hi>England</hi> with Joy, did ſtraight make this Reply,</l>
+            <l>My ROSE Revives, juſt as it ſeem'd to dye,</l>
+            <l>The <hi>Fragrant Smells,</hi> that it in Plenty yields,</l>
+            <l>Doth fill the <hi>Skies,</hi> makes glad your <hi>Scottiſh Fields.</hi>
+            </l>
+            <l>Do by your THISTLE prick thoſe that Rebell,</l>
+            <l>I'll Cure <hi>Confuſion</hi> by my ROSES Smell.</l>
+            <l>If <hi>Devil-Rebellion</hi> enter ſome <hi>Saul</hi>'s Heart,</l>
+            <l>Our <hi>David,</hi> by the HARP, will act his part.</l>
+            <l>
+               <hi>Scotland,</hi> I'll wait the pleaſure of Heav'ns King.</l>
+            <l>Who Comfort and Great Joy to's all will bring:</l>
+            <l>
+               <hi>Straight<g ref="char:punc">▪</g>
+               </hi> by Command, the happy Tenth of <hi>June</hi>
+            </l>
+            <l>Brought forth the <hi>Pearl</hi> Adorns the <hi>Engliſh Crown:</hi>
+            </l>
+            <l>My <hi>Muſe</hi> awak'd all was reduc'd to Joy,</l>
+            <l>Cannons did Roar, the Cry was <hi>A Brisk BOY;</hi>
+            </l>
+            <l>I joyn'd and ſaid, We're Crown'd with <hi>Bleſſings</hi> now,</l>
+            <l>Let all the Nations to <hi>Jehovah</hi> Bow:</l>
+            <l>Thus fill'd with <hi>Joy,</hi> I Run and could not Tarry,</l>
+            <l>Till I by theſe Apply'd, the whole <hi>Hail MARY,</hi>
+            </l>
+            <l>
+               <hi>The Lord is with Thee,</hi> and by <hi>Thee</hi> has Brought</l>
+            <l>The <hi>Gemn</hi> Deſired, and the <hi>Pearl</hi> ſtill Sought:</l>
+            <l>Let's Cheerfully Contented <hi>Anthems</hi> Sing,</l>
+            <l>May MARY-GOLD ſuch <hi>Pleaſure</hi> yield each <hi>Spring;</hi>
+            </l>
+            <l>Long live the PRINCE, long live the QUEEN and KING.</l>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Mary Thompſon</hi> at the Entrance into
+<hi>Old-Spring-Garden</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n at
+<hi>Charing-Croſs,</hi> Anno Domini MDCLXXXVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
